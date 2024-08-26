@@ -1,4 +1,4 @@
-<script script lang="ts">
+<script setup lang="ts">
 //  const router = useRoute()
 //  console.log(router.params.aa)
 </script>
